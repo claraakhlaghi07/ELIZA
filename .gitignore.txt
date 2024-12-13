@@ -1,0 +1,13 @@
+# Unreal Engine Ignore List
+*.log
+*.tmp
+*.vs
+*.sln
+DerivedDataCache/
+Saved/
+Intermediate/
+Build/
+Binaries/
+*.suo
+*.user
+*.VC.db
